@@ -16,4 +16,4 @@ OS : 윈도우 / 맥OS / 리눅스 등
 에러 메시지 및 이미지 첨부
 
 
-위 양식을 이용하여 [여기](https://github.com/Archive-Discord/bug-bounty/issues)에 등록해주세요
+## 위 양식을 이용하여 [여기](https://github.com/Archive-Discord/bug-bounty/issues)에 등록해주세요
